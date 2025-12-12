@@ -21,9 +21,9 @@ document.querySelectorAll('.card').forEach(card => {
             const password = prompt("Para abrir la tarjeta del día " + day + ", ingresa la contraseña romántica:\n(usa minúscula)");
 
             const keys = {
-                12: "lago di Como",
-                13: "bulnes",
-                14: "maillé-brézé",
+                12: "lombardia",
+                13: "asturias",
+                14: "bretaña",
                 21: "aquitania"
             };
 

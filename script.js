@@ -24,7 +24,7 @@ document.querySelectorAll('.card').forEach(card => {
                 12: "lombardia",
                 13: "asturias",
                 14: "bretaña",
-                21: "aquitania"
+                20: "aquitania"
             };
 
             if (password && password.toLowerCase() === keys[day]) {
